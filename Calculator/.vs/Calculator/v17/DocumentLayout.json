@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\",
+  "WorkspaceRootPath": "D:\\Maleesha\\Projects\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82D74C50-0485-4C2A-8ABF-D26B53253D53}|Calculator\\Calculator.csproj|e:\\projects\\c# calculator\\c-project-calculator\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{82D74C50-0485-4C2A-8ABF-D26B53253D53}|Calculator\\Calculator.csproj|d:\\maleesha\\projects\\projects\\c# calculator\\c-project-calculator\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{82D74C50-0485-4C2A-8ABF-D26B53253D53}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82D74C50-0485-4C2A-8ABF-D26B53253D53}|Calculator\\Calculator.csproj|e:\\projects\\c# calculator\\c-project-calculator\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82D74C50-0485-4C2A-8ABF-D26B53253D53}|Calculator\\Calculator.csproj|D:\\Maleesha\\Projects\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82D74C50-0485-4C2A-8ABF-D26B53253D53}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,19 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\Calculator\\Form1.cs",
+              "DocumentMoniker": "D:\\Maleesha\\Projects\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
-              "ToolTip": "E:\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\Calculator\\Form1.cs",
+              "ToolTip": "D:\\Maleesha\\Projects\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\Calculator\\Form1.cs",
               "RelativeToolTip": "Calculator\\Form1.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAApwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\Calculator\\Form1.cs",
+              "DocumentMoniker": "D:\\Maleesha\\Projects\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
-              "ToolTip": "E:\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\Calculator\\Form1.cs [Design]",
+              "ToolTip": "D:\\Maleesha\\Projects\\Projects\\C# Calculator\\C-Project-calculator\\Calculator\\Calculator\\Form1.cs [Design]",
               "RelativeToolTip": "Calculator\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T18:34:48.011Z",
